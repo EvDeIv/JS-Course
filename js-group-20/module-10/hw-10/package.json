@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://evdeiv.github.io/JS-Course/js-group-20/module-10",
+  "homepage": "https://evdeiv.github.io/JS-Course/js-group-20/module-10/hw-10",
   "devDependencies": {
     "@babel/core": "^7.10.4",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
